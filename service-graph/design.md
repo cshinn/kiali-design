@@ -2,9 +2,7 @@
 
 ## Graph Zoom Tool
 The graph zoom tool contains buttons that enable the user to zoom the graph in and out as well as fit the zoom to the current view. This tool may optionally contain a trigger for the graph legend as well as a graph layout selector.
-
 ![zoom tool on the service graph](img/zoom-tool-full.png)
-
 
 ### Zoom Tool Actions
 ![zoom tool](img/zoom-tool.png)
@@ -57,7 +55,6 @@ Nodes in the service graph are colored according to their health. Borders are 1p
 ### TCP Traffic
 ![TCP traffic edges](img/edge-status-tcp.png)
 - Dark Blue Stroke: #004368 (pf-blue-600)
-
 
 ## Traffic Animation options
 
